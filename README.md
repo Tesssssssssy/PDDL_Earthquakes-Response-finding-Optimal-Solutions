@@ -19,6 +19,7 @@ This can help for the firefighter, ambulance, hospital, school etc in rescuing p
 
 ### Plan Results
 - by Metric-FF planner
+- ./ff -o safety.pddl -f safety-pb1.pddl
 <img width="685" alt="1" src="https://github.com/Tesssssssssy/PDDL_Earthquakes-Response-finding-Optimal-Solutions/assets/105422037/f0c6ffe2-07a2-46b2-849c-5f00163cd5c6">
 <img width="613" alt="2" src="https://github.com/Tesssssssssy/PDDL_Earthquakes-Response-finding-Optimal-Solutions/assets/105422037/eef3d10a-068d-48c0-a603-7ebff351124f">
 <img width="571" alt="3" src="https://github.com/Tesssssssssy/PDDL_Earthquakes-Response-finding-Optimal-Solutions/assets/105422037/1918a06e-26eb-435a-8771-5a0961daa9ff">
@@ -29,6 +30,7 @@ This can help for the firefighter, ambulance, hospital, school etc in rescuing p
 <img width="805" alt="8" src="https://github.com/Tesssssssssy/PDDL_Earthquakes-Response-finding-Optimal-Solutions/assets/105422037/97b550d0-6bd0-476e-881e-4f837b0020e2">
 
 - by LPG-td-1.4 Planner
+- ./lpg-td -o safety.pddl -f safety-pb1.pddl -n 1
 <img width="821" alt="a" src="https://github.com/Tesssssssssy/PDDL_Earthquakes-Response-finding-Optimal-Solutions/assets/105422037/96d27853-2d69-4d26-88d9-f408a676ae4c">
 <img width="775" alt="b" src="https://github.com/Tesssssssssy/PDDL_Earthquakes-Response-finding-Optimal-Solutions/assets/105422037/0dc5f150-9edb-493e-9a26-9b156af8a685">
 <img width="815" alt="c" src="https://github.com/Tesssssssssy/PDDL_Earthquakes-Response-finding-Optimal-Solutions/assets/105422037/c88696df-0459-4463-b385-25e31bbb3947">
