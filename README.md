@@ -11,3 +11,6 @@ PDDL programming - When the Earthquakes happen, this Program find the optimal so
 
 I finally got some optimal solutions using planners.
 This can help for the firefighter, ambulance, hospital, school etc in rescuing patients.
+
+[pddl solution1 by ff.zip](https://github.com/Tesssssssssy/PDDL_Earthquakes-Response-finding-Optimal-Solutions/files/12841931/pddl.solution1.by.ff.zip)
+
